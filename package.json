@@ -21,6 +21,11 @@
 	"devDependencies": {
 		"prettier": "^2.2.0"
 	},
+
+	"dependencies": {
+		"chalk": "^4.1.0",
+		"log-symbols": "^4.0.0"
+	},
 	"scripts": {
 		"test": "node test.js",
 		"format": "prettier --write \"./**/*.{js,json}\""

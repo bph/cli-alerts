@@ -1,4 +1,4 @@
-const alert = require("cli-alerts");
+const alert = require('./index.js');
 
 alert({
 	type: "success",
