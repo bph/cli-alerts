@@ -1,6 +1,6 @@
 {
 	"name": "pauli-alerts",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Cross-plastform CLI Alerts with colors & colored symbols for success, info, warning, error. Works on macOS, Linux, and Windows. An exercise of the course NodeCLI.com by Ahmad Awais.",
 	"license": "MIT",
 	"repository": "bph/pauli-alerts",
