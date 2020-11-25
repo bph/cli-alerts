@@ -1,10 +1,10 @@
 # pauli-alerts
-<img src="Screen Shot 2020-11-25 at 3.06.42 PM.png" width="400">
+[![screenshot pauli-alerts]](./.Screen Shot 2020-11-25 at 3.06.42 PM.png)
 
 ## Usage
 
 ```js
-const alert = requires('cli-alerts');
+const alert = requires('pauli-alerts');
 
 // Prodvide the type, ms, and name options
 alert({ type: "success", msg: "All done!", name: `Done`});
