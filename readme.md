@@ -15,7 +15,7 @@ alert({ type: "info", msg: "No Hurricanes in the Gulf of Mexico",});
 
 alert({ type: "error", msg: "Oops that doesn't work. ",name: `Mistake!`});
 //Prints: ✖  Mistake!  Oops that doesn't work. 
-
+```
 <br/>
 
 ## API
