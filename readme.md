@@ -1,4 +1,4 @@
-# cli-alerts
+# pauli-alerts
 <img src="Screen Shot 2020-11-25 at 3.06.42 PM.png" width="400">
 
 ## Usage
