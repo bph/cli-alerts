@@ -1,3 +1,6 @@
+# cli-alerts
+<img src="Screen Shot 2020-11-25 at 3.06.42 PM.png" width="400">
+
 ## Usage
 
 ```js
@@ -16,7 +19,6 @@ alert({ type: "info", msg: "No Hurricanes in the Gulf of Mexico",});
 alert({ type: "error", msg: "Oops that doesn't work. ",name: `Mistake!`});
 //Prints: ✖  Mistake!  Oops that doesn't work. 
 ```
-<br/>
 
 ## API
 ### alert(options)
@@ -34,7 +36,7 @@ Default: error
 
 #### > msg
 
-Type: string <br?
+Type: string <br/>
 Default: You forgot to define all options. 
 
 #### > name
