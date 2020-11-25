@@ -1,5 +1,12 @@
 # pauli-alerts
 <img src="./Screen Shot 2020-11-25 at 3.06.42 PM.png">
+Cross platform CLI Alerts with colors & colored symbols for success, info, warning, error. Work on macOS, Linux, and Windows.
+<br/>
+
+## Install
+```
+npm install pauli-alerts
+```
 
 ## Usage
 
