@@ -1,5 +1,5 @@
 # pauli-alerts
-[![screenshot pauli-alerts]](./.Screen Shot 2020-11-25 at 3.06.42 PM.png)
+[![screenshot pauli-alerts]](https://github.com/bph/pauli-alerts/blob/master/Screen%20Shot%202020-11-25%20at%203.06.42%20PM.png?raw=true)
 
 ## Usage
 
